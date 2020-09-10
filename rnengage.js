@@ -1,4 +1,4 @@
-let API_URL = 'http://api.local.retailninja.co/v1/';
+let API_URL = 'http://api.retailninja.co/v1/';
 let engager = {
     access_token: "",
     distId: "_rnEDistId",
