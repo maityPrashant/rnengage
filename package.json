@@ -1,0 +1,25 @@
+{
+  "name": "rnengage",
+  "version": "1.0.0",
+  "description": "retailninja engage js sdk",
+  "main": "rnengage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maityPrashant/retailninja-engage.git"
+  },
+  "keywords": [
+    "rnengage"
+  ],
+  "author": "Prashant Maity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maityPrashant/retailninja-engage/issues"
+  },
+  "homepage": "https://github.com/maityPrashant/retailninja-engage#readme",
+  "dependencies": {
+    "js-cookie": "^2.2.1"
+  }
+}
